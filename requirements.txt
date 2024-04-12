@@ -1,0 +1,7 @@
+langchain
+ollama
+chromadb
+beautifulsoup4
+streamlit
+pypdf
+tiktoken
